@@ -8,6 +8,9 @@ const ContactSection = () => {
         <div className="section-title">
           <h2>Book an Appointment</h2>
         </div>
+        <div>
+          
+        </div>
         <div style={{textAlign:'center'}}>
           <p>
             Ready for your premium grooming experience? Book your appointment
